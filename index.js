@@ -9,3 +9,4 @@ console.log('test')
 >>>>>>> a93957557608d6c67fe30a58d9a6b03c2518739f
 
 console.log('测试提交到github？')
+console.log('测试拉去远程分支代码')
